@@ -1,2 +1,3 @@
-# full360horse.github.io
-Website of Full 360 Horse
+# Full 360 Horse
+
+Website resource for [Full Circle Farm](https://full360.horse)
